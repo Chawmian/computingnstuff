@@ -1,7 +1,26 @@
 # computingnstuff
 ##gei
 
-_the world is a __very strange place__
+*the world is a __very strange place__*
 
-_And so is man, with its curious violence and peace
+*And so is man, with its curious violence and peace*
+
+*A species of theives and plunderers, missionaries and peacekeepers, where demons coexist with the good.*
+
+*How curious*
+
+*How*
+
+*very*
+
+*very*
+
+*very*
+
+
+*curious*
+
+
+
+
 
