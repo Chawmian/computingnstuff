@@ -1,7 +1,7 @@
 # computingnstuff
-##gei
 
-*the world is a __very strange place__*
+
+*the world is a very strange place*
 
 *And so is man, with its curious violence and peace*
 
@@ -18,7 +18,10 @@
 *very*
 
 
-*curious*
+*curious.*
+
+
+
 
 
 
